@@ -1,11 +1,11 @@
 {
-  "name": "food-vite-92-1-2",
+  "name": "zabolotnyy-food-vite-92",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/food-vite-92-1-2/",
+    "build": "vite build --base=/zabolotnyy-food-vite-92/",
     "preview": "vite preview"
   },
   "devDependencies": {
